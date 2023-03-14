@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import Banierre from "../components/default_baner";
+import Banierre from "../components/defaultbaner";
 import Footer from "../components/footer";
 import { Inter } from "@next/font/google";
 import styles from "../styles/Home.module.css";
