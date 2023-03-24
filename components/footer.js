@@ -81,7 +81,7 @@ const Footer = (props) => {
             <p className="mb-5 copyright_cico">
               Copyright &copy; 2023
               <span> cico sarl, réalisé avec 💛 par </span>
-              <Link href="offres.fidbagraphics.com" target="_blank">
+              <Link href="https://offres.fidbagraphics.com" target="_blank">
                 fidbagraphics
               </Link>
             </p>
