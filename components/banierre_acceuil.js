@@ -15,7 +15,7 @@ const Banierre_acceuil = (props) => {
       <div className="Banierre_acceuil_containt">
         <h1>
           {" "}
-          NOUS CONSTRUISONS REALISONS <br /> DES{" "}
+          NOUSREALISONS <br /> DES{" "}
           <span className="coloric_yellow_span">
             GRANDS <br /> PROJETS POUR VOUS.
           </span>
