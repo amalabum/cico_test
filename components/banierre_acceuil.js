@@ -17,7 +17,7 @@ const Banierre_acceuil = (props) => {
           {" "}
           NOUS REALISONS <br /> DES{" "}
           <span className="coloric_yellow_span">
-            GRANDS <br /> PROJETS POUR VOUS.
+            GRANDS <br /> PROJETS POUR VOUS
           </span>
           .{" "}
         </h1>{" "}
